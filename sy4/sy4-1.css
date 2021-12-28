@@ -1,0 +1,13 @@
+/* CSS Document */
+*{margin: 0;padding: 0;}
+	body{font-family: "宋体";}
+	#box{margin: 0 auto;width: 900px;background: #B3AAAA;border: 1px solid #000000}
+	#header{height: 120px;width: 900px auto;background: #F05154;border:1px solid #E9E978;padding-left: 50px;margin-bottom: 10px;margin-left: 10px;margin-right: 10px}
+	#logo{float: left;width: 200px;height: 40px;background: #7F86EF;margin-bottom: 10px;border: 1px solid #FDFDFD;}
+	#banner{float: right;width: 300px;height: 40px;background: #7F86EF;margin-bottom: 10px;border: 1px solid #FDFDFD;}
+	#menu{ width: 800px;height:40px;background: #9A6DDF;border: 1px solid #FDFDFD;}
+	#containter{width: 900px;height: 200px;margin-bottom: 10px;}
+	#mainbox{margin-bottom: 20px;width: 900px auto;height: 200px;background: #F1BEBF;border: 1px solid #E9E978;margin-left: 10px;margin-right: 10px}
+	#contentbox{float: right;width: 200px;height: 150px;background: #E6E781;margin-bottom: 10px;margin-right: 10px;border: 1px solid #FDFDFD;}
+	#sidebox{float: left;width: 200px;height: 150px;background: #8AE7A4;margin-bottom: 10px;margin-right: 450px;margin-left: 10px;border: 1px solid #FDFDFD;}
+	#footer{width: 900px auto;height: 40px auto;background: #A5E5F0;border: 1px solid #E9E978;margin-left: 10px;margin-right: 10px;margin-bottom: 5px;}

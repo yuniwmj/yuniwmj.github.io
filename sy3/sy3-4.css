@@ -1,0 +1,11 @@
+/* CSS Document */
+h1{text-align:center;}
+.row1{text-align: center;background: #145A91;color: #FFFFFF;}
+.row2{text-align: center;background: aquamarine;color: #000000;}
+.row3{text-align: center;background: antiquewhite;color: #000000;}
+.row4{text-align: center;background: aquamarine;color: #000000;}
+.row5{text-align: center;background: antiquewhite;color: #000000;}
+table{border-top: 1px solid #000000;border-left: 1px solid #000000;border-spacing: 0; }
+table th{border:solid #000000;text-align: center;width: 800px;line-height: 4;}
+body{text-align: center;}
+table td{border:solid #000000;border-bottom: 1px solid #000000;border-right: 1px solid #000000;line-height: 3;}

@@ -1,0 +1,6 @@
+/* CSS Document */
+h1{text-align: center;}
+body{text-align: center;}
+div{text-align: center;width: 40%;border:dashed #3C54E1;background-color: #D3F2F2}
+.submit{background: #EFC7C8;}
+.submit:hover{background:#EB696C;}

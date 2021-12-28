@@ -1,0 +1,16 @@
+*{
+  background-color:#fffff0;
+}
+h2{
+  color:#ff0000;
+  text-align:center;
+}
+h3{
+  position:left;
+  color:#008000;
+}
+body{
+  color:#000000;
+  text-indent:2em;
+  line-height:20px;
+}
